@@ -2,6 +2,8 @@
 
 This repository contains various results, tests, tools and scripts used for testing this assignment.
 
+The main project can be found [here](https://github.com/SrGMC/pf-ia)
+
 ## *WARNING*
 
 If you've found this repository by chance, welcome.
